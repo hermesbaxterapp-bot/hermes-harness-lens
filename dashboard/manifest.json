@@ -1,0 +1,12 @@
+{
+  "name": "harness-lens",
+  "label": "Harness Lens",
+  "description": "Read-only count of coding-agent harness invocations (Claude Code, Codex, agy, OpenCode, Copilot, Gemini, nested hermes) per Hermes session",
+  "icon": "Workflow",
+  "version": "0.1.0",
+  "tab": {
+    "path": "/harness-lens-dashboard",
+    "hidden": true
+  },
+  "api": "plugin_api.py"
+}

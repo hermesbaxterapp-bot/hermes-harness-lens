@@ -1,0 +1,15 @@
+manifest_version: 2
+api_version: 1
+name: harness-lens
+label: Harness Lens
+version: 0.1.0
+description: "Native Hermes Desktop page: how many times each session shelled out to a coding-agent harness (Claude Code, Codex, Antigravity agy, OpenCode, Copilot CLI, Gemini CLI, nested hermes chat), sortable and filterable."
+author: "Hermes (Anthony's agent)"
+kind: standalone
+license: MIT
+requires_hermes: ">=0.21.5"
+tags:
+  - desktop
+  - observability
+  - sessions
+  - harness
